@@ -17,9 +17,17 @@
   <h2>Sobre mim</h2>
   <p>Atuo como desenvolvedor web, com uso das stacks do Javascript e focado na parte do front-end com o <strong>React.js</strong> e também com conhecimento do <strong>Node.js</strong>. Já passei por outras tecnologías como Angular, Python, Java, PL/SQL em projetos ou trabalhos, mas o meu git é voltado mais para as outras stacks. Atualmente busco me especializar no front, com a stack a React.js e usando o node para integração com o back, aprimorando conhecimentos junto com a Rocketseat na trilha do Ignite.</p>
  <br>
-  <h3>Projeto que estou atuando agora:</h3>
-  <h4><a href="https://github.com/RafaelMatos/design-system" target="_blank">Design System</a></h4>
+  <h3>Projetos que estou atuando agora:</h3>
+  <h4>
+    <a href="https://github.com/RafaelMatos/design-system" target="_blank">Design System</a>
+  </h4>
   <p>Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse módulo criaremos um projeto completo com o framework Next.js. Vamos utilizar StitchesJS, passando por conceitos de SPA, server-side rendering (SSR) e static-site generation (SSG).</p>
+  <h4>
+<!--     <a href="https://github.com/RafaelMatos/design-system" target="_blank"> -->
+      Projetos com Next.js e TailwindCSS
+<!--     </a> -->
+  </h4>
+  <p>Estou desenvolvendo o projeto de um <a href="https://github.com/RafaelMatos/portfolio" target="_blank">portfólio pessoal</a> para registrar os trabalhos realizados e o projeto de uma <a href="https://github.com/RafaelMatos/XYZ" target="_blank">agência</a> realizado no curso do Dev em Dobro que foi feito com HTML e CSS, adaptando ele usando o Next e Tailwind</p>
  
   ### Pra um pouco mais sobre mim, pode chamar nas outras redes!
  
