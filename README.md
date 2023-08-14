@@ -18,17 +18,38 @@
   <p>Atuo como desenvolvedor web, com uso das stacks do Javascript e focado na parte do front-end com o <strong>React.js</strong> e também com conhecimento do <strong>Node.js</strong>. Já passei por outras tecnologías como Angular, Python, Java, PL/SQL em projetos ou trabalhos, mas o meu git é voltado mais para as outras stacks. Atualmente busco me especializar no front, com a stack a React.js e usando o node para integração com o back, aprimorando conhecimentos junto com a Rocketseat na trilha do Ignite.</p>
  <br>
   <h3>Projetos que estou atuando agora:</h3>
-  <h4>
-    <a href="https://github.com/RafaelMatos/design-system" target="_blank">Design System</a>
-  </h4>
-  <p>Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse módulo criaremos um projeto completo com o framework Next.js. Vamos utilizar StitchesJS, passando por conceitos de SPA, server-side rendering (SSR) e static-site generation (SSG).</p>
+  
   <h4>
 <!--     <a href="https://github.com/RafaelMatos/design-system" target="_blank"> -->
-      Projetos com Next.js e TailwindCSS
+      Projetos com React.js / Next.js
 <!--     </a> -->
   </h4>
-  <p>Estou desenvolvendo o projeto de um <a href="https://github.com/RafaelMatos/portfolio" target="_blank">portfólio pessoal</a> para registrar os trabalhos realizados e o projeto de uma <a href="https://github.com/RafaelMatos/XYZ" target="_blank">agência</a> realizado no curso do Dev em Dobro que foi feito com HTML e CSS, adaptando ele usando o Next e Tailwind</p>
- 
+  <h4>
+    <a href="https://github.com/RafaelMatos/portfolio" target="_blank">
+      PORTFÓLIO PESSOAL
+    </a>
+  </h4>
+  <p>
+    - Projeto de um portfólio pessoal para registrar os trabalhos realizados.Desenvolvido com <span>Next.js</span> e              TailwindCSS
+  </p>
+  
+  <h4>
+    <a href="https://github.com/RafaelMatos/travelimagegallery" target="_blank">
+      GALERIA DE IMAGENS
+    </a>
+  </h4>
+  <p>
+    - Projeto de uma galeria de imagens para registro de fotos de viagem. Desenvolvido com <span>React.js</span>span e Styled-Components
+  </p>
+
+   <h5>
+    <a href="https://github.com/RafaelMatos/design-system" target="_blank">
+      Design System
+    </a> (Pausado)
+  </h5>
+  <p>
+    - Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse módulo criaremos um projeto completo com o framework Next.js.        Vamos utilizar StitchesJS, passando por conceitos de SPA, server-side rendering (SSR) e static-site generation (SSG).
+  </p>
   ### Pra um pouco mais sobre mim, pode chamar nas outras redes!
  
 <div> 
@@ -40,6 +61,6 @@
    <a href = "mailto:rafael-matos@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-0F6CBD?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafaelibiapina2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/RafaelMatos/RafaelMatos/blob/output/github-contribution-grid-snake.svg)
+ <!--  ![Snake animation](https://github.com/RafaelMatos/RafaelMatos/blob/output/github-contribution-grid-snake.svg)  -->
 
 </div>
