@@ -24,32 +24,13 @@
       Projetos com React.js / Next.js
 <!--     </a> -->
   </h4>
-  <h4>
-    <a href="https://github.com/RafaelMatos/portfolio" target="_blank">
-      PORTFÓLIO PESSOAL
-    </a>
-  </h4>
-  <p>
-    - Projeto de um portfólio pessoal para registrar os trabalhos realizados.Desenvolvido com <span>Next.js</span> e              TailwindCSS
-  </p>
-  
-  <h4>
-    <a href="https://github.com/RafaelMatos/travelimagegallery" target="_blank">
-      GALERIA DE IMAGENS
-    </a>
-  </h4>
-  <p>
-    - Projeto de uma galeria de imagens para registro de fotos de viagem. Desenvolvido com <span>React.js</span>span e Styled-Components
-  </p>
-
    <h5>
-    <a href="https://github.com/RafaelMatos/design-system" target="_blank">
+    <a href="https://github.com/RafaelMatos/design-system2" target="_blank">
       Design System
-    </a> (Pausado)
+    </a> 
   </h5>
   <p>
-    - Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse módulo criaremos um projeto completo com o framework Next.js.        Vamos utilizar StitchesJS, passando por conceitos de SPA, server-side rendering (SSR) e static-site generation (SSG).
-  </p>
+    - Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse módulo está sendo construido um Design System, para entender como documentar os componentes do React e descobrir diversas ferramentas que vão nos ajudar desde a implementação do Design System até sua publicação, como Storybook, changesets e muito mais.</p>
   ### Pra um pouco mais sobre mim, pode chamar nas outras redes!
  
 <div> 
