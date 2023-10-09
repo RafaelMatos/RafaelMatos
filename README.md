@@ -25,12 +25,12 @@
 <!--     </a> -->
   </h4>
    <h5>
-    <a href="https://github.com/RafaelMatos/design-system2" target="_blank">
-      Design System
+    <a href="https://github.com/RafaelMatos/ignite-call" target="_blank">
+      Ignite Call
     </a> 
   </h5>
   <p>
-    - Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse módulo está sendo construido um Design System, para entender como documentar os componentes do React e descobrir diversas ferramentas que vão nos ajudar desde a implementação do Design System até sua publicação, como Storybook, changesets e muito mais.</p>
+    - Projeto em desenvolvimento no 6º e ultimo módulo da trilha React do curso Ignite na Rocketseat🚀 , utilizando o Design System também desenvolvido durante o curso;</p>
   ### Pra um pouco mais sobre mim, pode chamar nas outras redes!
  
 <div> 
