@@ -31,7 +31,7 @@
   </h5>
   <p>
     - Projeto em desenvolvimento no 6º e ultimo módulo da trilha React do curso Ignite na Rocketseat🚀 , utilizando o Design System também desenvolvido durante o curso;</p>
-  ### Pra um pouco mais sobre mim, pode chamar nas outras redes!
+  <h3> Pra um pouco mais sobre mim, pode chamar nas outras redes! </h3>
  
 <div> 
 <!--   <a href="https://instagram.com/RafaelMatos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
