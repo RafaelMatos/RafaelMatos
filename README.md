@@ -14,8 +14,17 @@
   <img align="center" alt="Styled-components" height="30" width="40" src="https://img.jsdelivr.com/raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
 </div>
  <br>
-  <h2>Sobre mim</h2>
-  <p>Atuo como desenvolvedor web, com uso das stacks do Javascript e focado na parte do front-end com o <strong>React.js</strong> e também com conhecimento do <strong>Node.js</strong>. Já passei por outras tecnologías como Angular, Python, Java, PL/SQL em projetos ou trabalhos, mas o meu git é voltado mais para as outras stacks. Atualmente busco me especializar no front, com a stack a React.js e usando o node para integração com o back, aprimorando conhecimentos junto com a Rocketseat na trilha do Ignite.</p>
+
+   <details>
+    <summary><h2>Sobre mim</h2></summary>
+    <p>Atuo como desenvolvedor web, com uso das stacks do Javascript e focado na parte do front-end com o <strong>React.js</strong> e também com conhecimento do <strong>Node.js</strong>. Já passei por outras tecnologías como Angular, Python, Java, PL/SQL em projetos ou trabalhos, mas o meu git é voltado mais para as outras stacks. Atualmente busco me especializar no front, com a stack a React.js e usando o node para integração com o back, aprimorando conhecimentos junto com a Rocketseat na trilha do Ignite.</p>
+</details>
+<details>
+<summary><h2>About me<h2></summary>
+    <p>I work as a web developer, using JavaScript stacks and focusing on the front-end with React.js. I also have knowledge of Node.js. I have experience with other technologies such as Angular, Python, Java, PL/SQL in various projects or assignments, but my primary focus is on other stacks. Currently, I am aiming to specialize in the front-end, specifically with the React.js stack, and utilizing Node.js for backend integration. I am enhancing my skills through the Ignite track with Rocketseat.</p>
+</details>
+<!--   <h2>Sobre mim</h2>
+  <p>Atuo como desenvolvedor web, com uso das stacks do Javascript e focado na parte do front-end com o <strong>React.js</strong> e também com conhecimento do <strong>Node.js</strong>. Já passei por outras tecnologías como Angular, Python, Java, PL/SQL em projetos ou trabalhos, mas o meu git é voltado mais para as outras stacks. Atualmente busco me especializar no front, com a stack a React.js e usando o node para integração com o back, aprimorando conhecimentos junto com a Rocketseat na trilha do Ignite.</p> -->
  <br>
   <h3>Projetos que estou atuando agora:</h3>
   
