@@ -7,13 +7,15 @@
 </div>
 <div style="display: inline_block"><br>
 
+
   <img align="center" alt="Next.js" height="40" width="40" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />
   <img align="center" alt="React.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Styled-components" height="40" width="40" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png">
+  <img align="center" alt="TailwindCSS" height="40" width="40" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png">
   <img align="center" alt="Styled-components" height="40" width="40" src="https://img.jsdelivr.com/raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
+  <img align="center" alt="CSS" height="40" width="40" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png">
+  <img align="center" alt="HTML" height="40" width="40" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png">
 </div>
  <br>
 
