@@ -15,7 +15,7 @@
 </div>
  <br>
 
-   <details>
+   <details open>
     <summary><h2>Sobre mim</h2></summary>
     <p>Atuo como desenvolvedor web, com uso das stacks do Javascript e focado na parte do front-end com o <strong>React.js</strong> e também com conhecimento do <strong>Node.js</strong>. Já passei por outras tecnologías como Angular, Python, Java, PL/SQL em projetos ou trabalhos, mas o meu git é voltado mais para as outras stacks. Atualmente busco me especializar no front, com a stack a React.js e usando o node para integração com o back, aprimorando conhecimentos junto com a Rocketseat na trilha do Ignite.</p>
 </details>
