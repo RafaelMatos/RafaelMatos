@@ -1,4 +1,11 @@
+<h3 align="center">👋 Hello! I'm Rafael.</h3>
 
+<p align="center">
+  <a href="https://www.instagram.com/rafael.mts/">Instagram</a> •
+  <a href="https://www.linkedin.com/in/rafaelimatos/">Linkedin</a>
+</p>
+
+---
 
 <div>
   <a href="https://github.com/RafaelMatos">
