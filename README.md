@@ -27,6 +27,18 @@
 <summary><h2>About me<h2></summary>
     <p>I work as a web developer, using JavaScript stacks and focusing on the front-end with React.js. I also have knowledge of Node.js. I have experience with other technologies such as Angular, Python, Java, PL/SQL in various projects or assignments, but my primary focus is on other stacks. Currently, I am aiming to specialize in the front-end, specifically with the React.js stack, and utilizing Node.js for backend integration. I am enhancing my skills through the Ignite track with Rocketseat.</p>
 </details>
+
+  <h3>Principais tecnologias</h3>
+  <ul>
+    <li>React.js</li>
+    <li>Next.js</li>
+    <li>Typescript / Javascript</li>
+    <li>TailwindCSS</li>
+    <li>Styled-Components</li>
+    <li>Stitches</li>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
 <!--   <h2>Sobre mim</h2>
   <p>Atuo como desenvolvedor web, com uso das stacks do Javascript e focado na parte do front-end com o <strong>React.js</strong> e também com conhecimento do <strong>Node.js</strong>. Já passei por outras tecnologías como Angular, Python, Java, PL/SQL em projetos ou trabalhos, mas o meu git é voltado mais para as outras stacks. Atualmente busco me especializar no front, com a stack a React.js e usando o node para integração com o back, aprimorando conhecimentos junto com a Rocketseat na trilha do Ignite.</p> -->
  <br>
@@ -43,8 +55,25 @@
     </a> 
   </h5>
   <p>
-    - Projeto em desenvolvimento no 6º e ultimo módulo da trilha React do curso Ignite na Rocketseat🚀 , utilizando o Design System também desenvolvido durante o curso;</p>
-  <h3> Pra um pouco mais sobre mim, pode chamar nas outras redes! </h3>
+    - <b>Ignite Call</b> é uma aplicação de agendamentos conectada ao Google Calendar que permite aos usuários compartilhar seu calendário e permitir que outros reservem horários disponíveis. A aplicação está sendo desenvolvida com React, Next.js e TypeScript.
+  </p> 
+    <a href="https://ignite-call-rm.vercel.app/">Link para aplicação</a>
+  
+
+   <h5>
+    <a href="https://github.com/RafaelMatos/bookwise" target="_blank">
+      BookWise
+    </a> 
+  </h5>
+  <p>
+    - Projeto em desenvolvimento no 6º e último desafio da trilha React do curso Ignite na Rocketseat🚀 , aplicação full stack, utilizando o conceito de backend for frontend permitido pelo framework Next.js;
+  </p>
+
+    
+  <h3> Pra um pouco mais sobre mim, pode me chamar nas outras redes! </h3>
+
+ 
+  
  
 <div> 
 <!--   <a href="https://instagram.com/RafaelMatos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
