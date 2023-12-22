@@ -56,6 +56,15 @@
       Projetos com React.js / Next.js
 <!--     </a> -->
   </h4>
+
+   <h5>
+    <a href="https://github.com/RafaelMatos/bookwise" target="_blank">
+      BookWise
+    </a> 
+  </h5>
+  <p>
+    - Projeto em desenvolvimento no 6º e último desafio da trilha React do curso Ignite na Rocketseat🚀 , aplicação full stack, utilizando o conceito de backend for frontend permitido pelo framework Next.js;
+  </p>
    <h5>
     <a href="https://github.com/RafaelMatos/ignite-call" target="_blank">
       Ignite Call
@@ -67,14 +76,7 @@
     <a href="https://ignite-call-rm.vercel.app/">Link para aplicação</a>
   
 
-   <h5>
-    <a href="https://github.com/RafaelMatos/bookwise" target="_blank">
-      BookWise
-    </a> 
-  </h5>
-  <p>
-    - Projeto em desenvolvimento no 6º e último desafio da trilha React do curso Ignite na Rocketseat🚀 , aplicação full stack, utilizando o conceito de backend for frontend permitido pelo framework Next.js;
-  </p>
+  
 
     
   <h3> Pra um pouco mais sobre mim, pode me chamar nas outras redes! </h3>
