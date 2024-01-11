@@ -65,6 +65,7 @@
   <p>
     - Projeto em desenvolvimento no 6º e último desafio da trilha React do curso Ignite na Rocketseat🚀 , aplicação full stack, utilizando o conceito de backend for frontend permitido pelo framework Next.js;
   </p>
+  <a href="https://bookwise-rm.vercel.app/">Link para aplicação</a>
    <h5>
     <a href="https://github.com/RafaelMatos/ignite-call" target="_blank">
       Ignite Call
