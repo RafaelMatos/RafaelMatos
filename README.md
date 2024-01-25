@@ -49,35 +49,67 @@
 <!--   <h2>Sobre mim</h2>
   <p>Atuo como desenvolvedor web, com uso das stacks do Javascript e focado na parte do front-end com o <strong>React.js</strong> e também com conhecimento do <strong>Node.js</strong>. Já passei por outras tecnologías como Angular, Python, Java, PL/SQL em projetos ou trabalhos, mas o meu git é voltado mais para as outras stacks. Atualmente busco me especializar no front, com a stack a React.js e usando o node para integração com o back, aprimorando conhecimentos junto com a Rocketseat na trilha do Ignite.</p> -->
  <br>
-  <h3>Projetos que estou atuando agora:</h3>
-  
-  <h4>
-<!--     <a href="https://github.com/RafaelMatos/design-system" target="_blank"> -->
-      Projetos com React.js / Next.js
-<!--     </a> -->
-  </h4>
+  <details open>
+    <summary><h2>Projetos em desenvolvimento</h2></summary>
+    <div>
+      <h3>
+         🏥 
+        <a href="https://github.com/RafaelMatos/serviceQueue" target="_blank">
+          Service Queue
+        </a> 
+      </h3>
+      <p>
+       Sistema para clinica médica para manutenção da fila de atendimento de pacientes em um sistema médico. Aplicação full stack, utilizando o conceito de backend for frontend permitido pelo framework Next.js;
+      </p>
+      <a href="https://service-queue.vercel.app/">
+        Link para aplicação
+      </a>   
+    </div>
+  </details>
 
-   <h5>
-    <a href="https://github.com/RafaelMatos/bookwise" target="_blank">
-      BookWise
-    </a> 
-  </h5>
-  <p>
-    - Projeto em desenvolvimento no 6º e último desafio da trilha React do curso Ignite na Rocketseat🚀 , aplicação full stack, utilizando o conceito de backend for frontend permitido pelo framework Next.js;
-  </p>
-  <a href="https://bookwise-rm.vercel.app/">Link para aplicação</a>
-   <h5>
-    <a href="https://github.com/RafaelMatos/ignite-call" target="_blank">
-      Ignite Call
-    </a> 
-  </h5>
-  <p>
-    - <b>Ignite Call</b> é uma aplicação de agendamentos conectada ao Google Calendar que permite aos usuários compartilhar seu calendário e permitir que outros reservem horários disponíveis. A aplicação está sendo desenvolvida com React, Next.js e TypeScript.
-  </p> 
-    <a href="https://ignite-call-rm.vercel.app/">Link para aplicação</a>
-  
-
-  
+   
+<details open>
+  <summary><h2>Projetos em destaque</h2></summary>
+  <div>
+    <details >
+      <summary>
+        <h3>
+          📖
+          <a href="https://github.com/RafaelMatos/bookwise" target="_blank">
+            BookWise
+          </a>
+        </h3>
+      </summary>
+      <div>
+        <p>
+          Projeto em desenvolvido no 6º e último desafio da trilha React do
+          curso Ignite na Rocketseat🚀 , aplicação full stack, utilizando o
+          conceito de backend for frontend permitido pelo framework Next.js;
+        </p>
+        <a href="https://bookwise-rm.vercel.app/">Link para aplicação</a>
+      </div>
+    </details>
+    <details>
+      <summary>
+        <h3>
+          📅
+          <a href="https://github.com/RafaelMatos/ignite-call" target="_blank">
+            Ignite Call
+          </a>
+        </h3>
+      </summary>
+      <div>
+        <p>
+          <b>Ignite Call</b> é uma aplicação de agendamentos conectada ao
+          Google Calendar que permite aos usuários compartilhar seu calendário e
+          permitir que outros reservem horários disponíveis. A aplicação está
+          sendo desenvolvida com React, Next.js e TypeScript.
+        </p>
+        <a href="https://ignite-call-rm.vercel.app/">Link para aplicação</a>
+      </div>
+    </details>
+  </div>
+</details>
 
     
   <h3> Pra um pouco mais sobre mim, pode me chamar nas outras redes! </h3>
