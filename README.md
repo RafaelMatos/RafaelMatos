@@ -39,6 +39,7 @@
   <ul>
     <li>React.js</li>
     <li>Next.js</li>
+    <li>Node.js</li>
     <li>Typescript / Javascript</li>
     <li>TailwindCSS</li>
     <li>Styled-Components</li>
