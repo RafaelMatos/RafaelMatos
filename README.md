@@ -74,9 +74,9 @@
       <p>
        Aplicação fullstack para realizar vídeo chamada, usando o ReactJS + Tailwind no front, NodeJS no back e P2P (Peer-to-peer) e WebRTC, para processamento de chat, voz e vídeo em tempo real.
       </p>
-<!--       <a href="https://service-queue.vercel.app/">
+      <a href="talktome-rm.vercel.app">
         Link para aplicação
-      </a>   -->
+      </a>  
       <h3>
          💈 
         <a href="https://github.com/RafaelMatos/fswbarber" target="_blank">
@@ -86,9 +86,9 @@
       <p>
        Aplicação para gerenciamento de agendamentos de serviços em barbearias. usando  ReactJS + Tailwind no front e usando o conceito de backend for frontend no Next para realizar as operações do back end.
       </p>
-<!--       <a href="https://service-queue.vercel.app/">
+      <a href="https://talktome-rm.vercel.app/">
         Link para aplicação
-      </a>   -->
+      </a>  
     </div>
   </details>
 
