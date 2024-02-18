@@ -74,7 +74,7 @@
       <p>
        Aplicação fullstack para realizar vídeo chamada, usando o ReactJS + Tailwind no front, NodeJS no back e P2P (Peer-to-peer) e WebRTC, para processamento de chat, voz e vídeo em tempo real.
       </p>
-      <a href="talktome-rm.vercel.app">
+      <a href="https://talktome-rm.vercel.app/">
         Link para aplicação
       </a>  
       <h3>
