@@ -27,11 +27,11 @@
  <br>
 
    <details open>
-    <summary><h2>Sobre mim</h2></summary>
+    <summary><strong>Sobre mim</strong></summary>
     <p>Atuo como desenvolvedor web, com uso das stacks do Javascript e focado na parte do front-end com o <strong>React.js</strong> e também com conhecimento do <strong>Node.js</strong>. Já passei por outras tecnologías como Angular, Python, Java, PL/SQL em projetos ou trabalhos, mas o meu git é voltado mais para as outras stacks. Atualmente busco me especializar no front, com a stack do React.js e usando o Node para integração com o back, aprimorando conhecimentos junto com a Rocketseat na trilha do Ignite.</p>
 </details>
 <details>
-<summary><h2>About me<h2></summary>
+<summary><strong>About me</strong></summary>
     <p>I work as a web developer, using JavaScript stacks and focusing on the front-end with React.js. I also have knowledge of Node.js. I have experience with other technologies such as Angular, Python, Java, PL/SQL in various projects or assignments, but my primary focus is on other stacks. Currently, I am aiming to specialize in the front-end, specifically with the React.js stack, and utilizing Node.js for backend integration. I am enhancing my skills through the Ignite track with Rocketseat.</p>
 </details>
 
@@ -50,8 +50,7 @@
 <!--   <h2>Sobre mim</h2>
   <p>Atuo como desenvolvedor web, com uso das stacks do Javascript e focado na parte do front-end com o <strong>React.js</strong> e também com conhecimento do <strong>Node.js</strong>. Já passei por outras tecnologías como Angular, Python, Java, PL/SQL em projetos ou trabalhos, mas o meu git é voltado mais para as outras stacks. Atualmente busco me especializar no front, com a stack a React.js e usando o node para integração com o back, aprimorando conhecimentos junto com a Rocketseat na trilha do Ignite.</p> -->
  <br>
-  <details open>
-    <summary><h2>Projetos em desenvolvimento</h2></summary>
+  <details open><summary><strong>Projetos em desenvolvimento</strong></summary>
     <div>
       <h3>
          🏥 
@@ -65,7 +64,7 @@
       <a href="https://service-queue.vercel.app/">
         Link para aplicação
       </a>
-      <h3>
+<!--       <h3>
          📹 
         <a href="https://github.com/RafaelMatos/talktome" target="_blank">
           Talk To Me
@@ -76,7 +75,7 @@
       </p>
       <a href="https://talktome-rm.vercel.app/">
         Link para aplicação
-      </a>  
+      </a>   -->
       <h3>
          💈 
         <a href="https://github.com/RafaelMatos/fswbarber" target="_blank">
@@ -94,36 +93,38 @@
 
    
 <details open>
-  <summary><h2>Projetos em destaque</h2></summary>
+  <summary><strong>Projetos em destaque</strong></summary>
   <div>
     <details >
       <summary>
+        <strong >BookWise</strong>
+      </summary>
+      <div>
         <h3>
           📖
           <a href="https://github.com/RafaelMatos/bookwise" target="_blank">
             BookWise
           </a>
         </h3>
-      </summary>
-      <div>
-        <p>
+        <p style="color: red;">
           Projeto em desenvolvido no 6º e último desafio da trilha React do
           curso Ignite na Rocketseat🚀 , aplicação full stack, utilizando o
           conceito de backend for frontend permitido pelo framework Next.js;
         </p>
         <a href="https://bookwise-rm.vercel.app/">Link para aplicação</a>
       </div>
-    </details>
+    </details>    
     <details>
-      <summary>
-        <h3>
+      <summary>        
+           <strong>Ignite Call</strong>
+      </summary>
+      <div style="background: red;">
+      <h3>
           📅
           <a href="https://github.com/RafaelMatos/ignite-call" target="_blank">
             Ignite Call
           </a>
         </h3>
-      </summary>
-      <div>
         <p>
           <b>Ignite Call</b> é uma aplicação de agendamentos conectada ao
           Google Calendar que permite aos usuários compartilhar seu calendário e
