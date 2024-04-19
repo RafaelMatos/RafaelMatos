@@ -56,7 +56,7 @@
          🏥 
         <a href="https://github.com/RafaelMatos/serviceQueue" target="_blank">
           Service Queue
-        </a> 
+        </a> (projeto pausado)
       </h3>
       <p>
        Sistema para clinica médica para manutenção da fila de atendimento de pacientes em um sistema médico. Aplicação full stack, utilizando o conceito de backend for frontend permitido pelo framework Next.js;
@@ -76,7 +76,7 @@
       <a href="https://talktome-rm.vercel.app/">
         Link para aplicação
       </a>   -->
-      <h3>
+<!--       <h3>
          💈 
         <a href="https://github.com/RafaelMatos/fswbarber" target="_blank">
           FSW Barber
@@ -87,7 +87,7 @@
       </p>
       <a href="https://talktome-rm.vercel.app/">
         Link para aplicação
-      </a>  
+      </a>   -->
     </div>
   </details>
 
@@ -95,6 +95,24 @@
 <details open>
   <summary><strong>Projetos em destaque</strong></summary>
   <div>
+    <details>
+      <summary>        
+           <strong>FSW Barber</strong>
+      </summary>
+      <div style="background: red;">
+      <h3>
+          💈 
+        <a href="https://github.com/RafaelMatos/fswbarber" target="_blank">
+            FSW Barber
+          </a>
+        </h3>
+        <p>
+          Aplicação para gerenciamento de agendamentos de serviços em barbearias. usando  ReactJS + Tailwind no front e usando o conceito de backend for frontend no Next para realizar as operações do back end.
+      </p>
+        </p>
+        <a href="https://talktome-rm.vercel.app/">Link para aplicação</a>
+      </div>
+    </details>
     <details >
       <summary>
         <strong >BookWise</strong>
