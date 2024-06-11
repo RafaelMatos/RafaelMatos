@@ -42,6 +42,7 @@
     <li>Node.js</li>
     <li>Typescript / Javascript</li>
     <li>TailwindCSS</li>
+    <li>Shadcn UI</li>
     <li>Styled-Components</li>
     <li>Stitches</li>
     <li>HTML</li>
@@ -76,18 +77,18 @@
       <a href="https://talktome-rm.vercel.app/">
         Link para aplicação
       </a>   -->
-<!--       <h3>
-         💈 
-        <a href="https://github.com/RafaelMatos/fswbarber" target="_blank">
-          FSW Barber
+<h3>
+         🛒 
+        <a href="https://github.com/RafaelMatos/fsw-store" target="_blank">
+          FSW Store
         </a> 
       </h3>
       <p>
-       Aplicação para gerenciamento de agendamentos de serviços em barbearias. usando  ReactJS + Tailwind no front e usando o conceito de backend for frontend no Next para realizar as operações do back end.
+       Projeto de um e-commerce de perifericos gamer. Usando  ReactJS + Tailwind no front e usando o conceito de backend for frontend no Next.js junto com o Prisma para realizar as operações do backend.
       </p>
-      <a href="https://talktome-rm.vercel.app/">
+      <a href="https://fswstore-rm.vercel.app/">
         Link para aplicação
-      </a>   -->
+      </a> 
     </div>
   </details>
 
